@@ -1,0 +1,9 @@
+my:
+  greeting: Hello World from config server (git-spring-cloud-config-client)
+  list:
+    values: One, Two, Three, Four, Five
+
+db:
+  connection: connection-string-here
+  host: 127.0.0.1
+  port: 1200
