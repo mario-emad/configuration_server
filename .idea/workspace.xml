@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36720ff4-9ca9-4fc1-b901-ab3a41dcd85b" name="Changes" comment="add property file with some additional files">
-      <change afterPath="$PROJECT_DIR$/application-dev.properties" afterDir="false" />
+    <list default="true" id="36720ff4-9ca9-4fc1-b901-ab3a41dcd85b" name="Changes" comment="add property dev file with some additional files">
+      <change beforePath="$PROJECT_DIR$/.idea/configuration_server.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/configuration_server.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,21 +57,6 @@
       <recent name="D:\Partition_1_(workstation)\Workstation\GitRepos\Configuration Server\configuration_server" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="configuration_server" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="configuration_server" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -88,7 +74,11 @@
       <option name="presentableId" value="Default" />
       <updated>1769984873602</updated>
       <workItem from="1769984874758" duration="453000" />
-      <workItem from="1770135788876" duration="58000" />
+      <workItem from="1770135788876" duration="1583000" />
+      <workItem from="1770147202447" duration="658000" />
+      <workItem from="1770147878548" duration="116000" />
+      <workItem from="1770152972014" duration="1899000" />
+      <workItem from="1770155944606" duration="595000" />
     </task>
     <task id="LOCAL-00001" summary="add property file with some additional files">
       <option name="closed" value="true" />
@@ -98,7 +88,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769985182608</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add property dev file with some additional files">
+      <option name="closed" value="true" />
+      <created>1770135875016</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1770135875016</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +104,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add property file with some additional files" />
-    <option name="LAST_COMMIT_MESSAGE" value="add property file with some additional files" />
+    <MESSAGE value="add property dev file with some additional files" />
+    <option name="LAST_COMMIT_MESSAGE" value="add property dev file with some additional files" />
   </component>
 </project>
