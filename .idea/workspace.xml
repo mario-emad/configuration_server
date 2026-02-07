@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36720ff4-9ca9-4fc1-b901-ab3a41dcd85b" name="Changes" comment="add spring-cloud-config-client yml file" />
+    <list default="true" id="36720ff4-9ca9-4fc1-b901-ab3a41dcd85b" name="Changes" comment="workspace.xml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +75,7 @@
       <workItem from="1770147202447" duration="658000" />
       <workItem from="1770147878548" duration="116000" />
       <workItem from="1770152972014" duration="1899000" />
-      <workItem from="1770155944606" duration="3107000" />
+      <workItem from="1770155944606" duration="3889000" />
     </task>
     <task id="LOCAL-00001" summary="add property file with some additional files">
       <option name="closed" value="true" />
@@ -125,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770478203257</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="workspace.xml">
+      <option name="closed" value="true" />
+      <created>1770478427389</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1770478427389</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +144,7 @@
     <MESSAGE value="add property dev file with some additional files" />
     <MESSAGE value="change application files extensions" />
     <MESSAGE value="add spring-cloud-config-client yml file" />
-    <option name="LAST_COMMIT_MESSAGE" value="add spring-cloud-config-client yml file" />
+    <MESSAGE value="workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace.xml" />
   </component>
 </project>
