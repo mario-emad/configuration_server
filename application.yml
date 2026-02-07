@@ -1,5 +1,5 @@
 my:
-  greeting: (runtimeChange) Hello World from config server (git)
+  greeting: Hello World from config server (git)
   list:
     values: One, Two, Three, Four, Five
 
