@@ -1,5 +1,5 @@
 my:
-  greeting: (runtimeChange) Hello World from config server (git-spring-cloud-config-client)
+  greeting: Hello World from config server (git-spring-cloud-config-client)
   list:
     values: One, Two, Three, Four, Five
 
