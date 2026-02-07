@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36720ff4-9ca9-4fc1-b901-ab3a41dcd85b" name="Changes" comment="change application files extensions">
+    <list default="true" id="36720ff4-9ca9-4fc1-b901-ab3a41dcd85b" name="Changes" comment="add spring-cloud-config-client yml file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +77,7 @@
       <workItem from="1770147202447" duration="658000" />
       <workItem from="1770147878548" duration="116000" />
       <workItem from="1770152972014" duration="1899000" />
-      <workItem from="1770155944606" duration="1622000" />
+      <workItem from="1770155944606" duration="2397000" />
     </task>
     <task id="LOCAL-00001" summary="add property file with some additional files">
       <option name="closed" value="true" />
@@ -103,7 +103,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770157309216</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add spring-cloud-config-client yml file">
+      <option name="closed" value="true" />
+      <created>1770158813355</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1770158813355</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +121,7 @@
     <MESSAGE value="add property file with some additional files" />
     <MESSAGE value="add property dev file with some additional files" />
     <MESSAGE value="change application files extensions" />
-    <option name="LAST_COMMIT_MESSAGE" value="change application files extensions" />
+    <MESSAGE value="add spring-cloud-config-client yml file" />
+    <option name="LAST_COMMIT_MESSAGE" value="add spring-cloud-config-client yml file" />
   </component>
 </project>
